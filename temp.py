@@ -3,3 +3,5 @@ def function(**kewargs):
         print(key, val) 
 
 function(name ="vinayak" , age = 12)
+
+print("hello")
